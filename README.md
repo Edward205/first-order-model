@@ -6,3 +6,4 @@ Todo list:
 - Implement Fashion Dataset and MGIF Dataset
 - Implement Face swap
 - Training on your own dataset
+- Compile everything to one portable exe file
