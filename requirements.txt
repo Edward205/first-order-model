@@ -27,3 +27,4 @@ torchvision==0.2.1
 tqdm==4.24.0
 tkinter
 opencv-python
+moviepy
